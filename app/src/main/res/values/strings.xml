@@ -1,0 +1,88 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <string name="title_activity_connected">ConnectedActivity</string>
+    <string name="title_activity_server">ServerActivity</string>
+    <string name="button_send">Send</string>
+    <string name="text_input_hint">Enter your message here</string>
+    <string name="client">Client</string>
+    <string name="choose_client_server_hint">Please choose either to proceed</string>
+    <string name="server">Server</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="name_hint">Please enter your name here</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_discoverable">Make Discoverable</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_profile">Profile</string>
+
+
+    <string name="connect_wifi">Connect Wi-Fi</string>
+    <string name="connect_bluetooth">Connect BT</string>
+    <string name="text_message">Text</string>
+    <string name="text_photo">Photo</string>
+    <string name="text_voice_message">Voice</string>
+    <string name="send">Send</string>
+    <string name="btn_attach">Attach</string>
+    <string name="record">Record</string>
+    <string name="play">Play</string>
+    <string name="image_description">Photo from the gallery</string>
+    <string name="visualizer_hint">Visualizer for the music play</string>
+    <string name="file_name_hint">Name of the recorded File</string>
+    <string name="message_hint">Type message here</string>
+    <string name="status_hint">Connected/Disconnected</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop">Stop</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="button_scan">Scan Devices</string>
+
+    <string name="none_found">No devices found</string>
+    <string name="make_discoverable">Make Discoverable</string>
+    <string name="not_connected">Not connected to any device</string>
+    <string name="not_all_connected">Not connected to all devices in group chat</string>
+    <string name="title_connecting">connecting&#8230;</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <string name="group_chat">Group Chat</string>
+    <string name="search">Search</string>
+    <string name="device_connection_status">Device Connection Status</string>
+
+    <string name="disconnected">Disconnected</string>
+    <string name="connect">Connect</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_address">Device Address</string>
+    <string name="full_screen_image">Full Screen Image</string>
+    <string name="image_message">Image message</string>
+    <string name="mac_address_hint">Enter device WiFi Mac address here</string>
+    <string name="mac_address">Mac Address</string>
+    <string name="name">Name</string>
+    <string name="user_profile_pic">User Profile Pic</string>
+    <string name="add_symbol">+</string>
+    -->
+
+
+    <string name="app_name">BlueChat</string>
+    <string name="connected">Bağlandı.</string>
+    <string name="disconnected">Bağlantı yok.</string>
+    <string name="not_connected">Hiçbir cihaz ile bağlantı kurulmadı.</string>
+    <string name="select_device">Bir Cihaz Seçiniz.</string>
+    <string name="none_found">Cihaz Bulunamadı.</string>
+    <string name="send">Gönder</string>
+    <string name="image_description">Galeriden Fotoğraf</string>
+    <string name="action_delete_all">Tüm Konuşmaları Sil</string>
+    <string name="message_hint">Mesaj giriniz.</string>
+    <string name="record">Kayıt</string>
+    <string name="image_message">Görüntü mesajı</string>
+    <string name="search">Ara</string>
+    <string name="make_discoverable">Görünebilir Yap</string>
+    <string name="device_connection_status">Direkt Bağlan</string>
+    <string name="deleted_all_conversation_message">Tüm konuşmalar silindi.</string>
+    <string name="deleted_selected_conversation_message">Seçili konuşma silindi.</string>
+
+</resources>
